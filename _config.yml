@@ -1,0 +1,14 @@
+title: Example Docs
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-toc
+
+highlighter: rouge
+
+exclude:
+  - README.md
+  - .gitignore
+
